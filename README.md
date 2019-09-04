@@ -1,2 +1,2 @@
-# Execcutables
-Executables of  various projects
+# Executables
+Executables of various projects.
